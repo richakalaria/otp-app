@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit Richa <code>src/App.js</code> and save to reload.
+          Edit Richsa <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
