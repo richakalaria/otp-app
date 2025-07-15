@@ -2,7 +2,7 @@
   "name": "otp-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/richakalaria/otp-app",
+  "homepage": "https://richakalaria.github.io/otp-app",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
