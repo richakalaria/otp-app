@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/richakalaria/otp-app/static/css/main.e6c13ad2.css",
+    "main.js": "/richakalaria/otp-app/static/js/main.97bbdc50.js",
+    "static/js/453.047240dc.chunk.js": "/richakalaria/otp-app/static/js/453.047240dc.chunk.js",
+    "index.html": "/richakalaria/otp-app/index.html",
+    "main.e6c13ad2.css.map": "/richakalaria/otp-app/static/css/main.e6c13ad2.css.map",
+    "main.97bbdc50.js.map": "/richakalaria/otp-app/static/js/main.97bbdc50.js.map",
+    "453.047240dc.chunk.js.map": "/richakalaria/otp-app/static/js/453.047240dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.97bbdc50.js"
+  ]
+}
